@@ -1,0 +1,85 @@
+
+
+body{
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #706c6c;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.oba{
+    display: flex;
+}
+
+.lewy{
+    width: 25%;
+    background-color: #666666;
+    color: white;
+}
+
+.prawy{
+    width: 75%;
+    background-color: #adadad;
+    text-align: center;
+    color: white;
+}
+footer{
+    height: 30px;
+    background-color: #706c6c;
+    text-align: center;
+    color: white;
+}
+
+.blok{
+    display: flex;
+    background-color: white;
+    width: 97%;
+    height: 250px;
+    margin: 20px;
+}
+
+.blokL{
+    width: 30%;
+}
+
+.blokP{
+    margin-left: 55px;
+    color: black;
+    width: 70%;
+}
+
+img{
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+}
+
+.miasta{
+    text-align: start;
+}
+
+.zdjecie1{
+    width: 30%;
+}
+
+.opis{
+    margin-left: 40px;
+    width: 50%;
+    color: black;
+}
+
+.receptura{
+    width: 20%;
+    color: black;
+}
